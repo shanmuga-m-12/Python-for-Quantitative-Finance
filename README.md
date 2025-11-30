@@ -1,7 +1,5 @@
 # Python for Quantitative Finance
-## Option Pricing using Lognormal Integration
+## Option Pricing 
  1. Numerical Integration under Lognormal PDF
- 2. Vectorized Trapezoidal Integration under Lognormal PDF
-## Option pricing using Characteristic function 
- 1. **Carr–Madan FFT** pricing (GBM, Heston, VG).
+ 2. **Carr–Madan FFT** pricing (GBM, Heston, VG) using Characteristic Functions
  
