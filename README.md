@@ -3,4 +3,5 @@
  1. Numerical Integration under Lognormal PDF
  2. Vectorized Trapezoidal Integration under Lognormal PDF
 ## Option pricing using Characteristic function 
- 1. 
+ 1. **Carr–Madan FFT** pricing (GBM, Heston, VG).
+ 
