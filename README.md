@@ -4,4 +4,5 @@
  2. **Carr–Madan FFT** pricing (GBM, Heston, VG) using Characteristic Functions
  3. Option pricing with different values of **alpha, eta , n.**
     
+ ## Calibration
  
