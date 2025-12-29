@@ -5,4 +5,4 @@
  3. Option pricing with different values of **alpha, eta , n.**
     
  ## Calibration
- 
+ 1. Market Price Plotting on 3D surface
