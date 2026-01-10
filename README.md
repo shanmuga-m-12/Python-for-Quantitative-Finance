@@ -6,3 +6,5 @@
     
  ## Calibration
  1. Market Price Plotting on 3D surface
+ 2. Stage - 1 (calibration):
+    Brute force(Grid Search)  -->  Nelder Mead  --> BFGS 
